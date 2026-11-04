@@ -3,7 +3,7 @@
 - Status: Accepted
 - Date: 2026-09-30
 
-The managed agent block and its controller files came from `pekth/ai-skills`
+The managed agent block and its controller files came from a private repository
 revision `97d487263399c8fba08edb28848dcd15cf7f22dd`. That source removed the
 policy artifacts in `fea5968d15f88bd1177e1d43c6264c1213b954a0`.
 The retained copies require delegation and handoffs for routine tasks, which
